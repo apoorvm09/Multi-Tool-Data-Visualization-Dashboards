@@ -4,7 +4,7 @@ Welcome to the Multi-Tool Data Visualization Dashboards repository! In this repo
 
 Dashboard Links
 
-1. [Power BI Dashboard]([power_bi_dashboard/README.md](https://github.com/apoorvm09/Superstore-Sales-Dashboard-in-Power-BI))
+1. [Power BI Dashboard](https://github.com/apoorvm09/Superstore-Sales-Dashboard-in-Power-BI))
 2. [TABLEAU Dashboard]([power_bi_dashboard/README.md](https://github.com/apoorvm09/Superstore-Overall-Sales-Analysis-Dashboard-in-Tableau))
 3. [GOOGLE DATA STUDIO Dashboard]([power_bi_dashboard/README.md](https://github.com/apoorvm09/Superstore-Performance-Dashboard-in-Google-Data-Studio))
 
