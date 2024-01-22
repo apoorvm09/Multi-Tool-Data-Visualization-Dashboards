@@ -1,6 +1,6 @@
 #Multi-Tool Data Visualization Dashboards
 
-Welcome to the Multi-Tool Data Visualization Dashboards repository! In this repository, you'll find three different dashboards showcasing data visualizations for the same dataset. Each dashboard is created using a different visualization tool: Power BI, Tableau, and Google Data Studio. These dashboards provide valuable insights into the dataset using various visualization techniques offered by these tools.
+Welcome to the Multi-Tool Data Visualization Dashboards repository! In this repository, you'll find four different dashboards showcasing data visualizations for the same dataset. Each dashboard is created using a different visualization tool: Power BI, Tableau, and Google Data Studio and Microsoft Excel. These dashboards provide valuable insights into the dataset using various visualization techniques offered by these tools.
 
 Dashboard Links
 
